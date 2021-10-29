@@ -1,0 +1,13 @@
+h1 { color: pink;
+          }
+             img { width: 400px;
+
+                  }
+                 #ThirdDiv { background-color: blue;
+                      width: 500px; height: 600px;
+                      padding: 50px;
+                      border:  15px solid green;
+                 }              
+             #SpanId { font-size: 18px;
+                       margin: 50px; 
+             }
